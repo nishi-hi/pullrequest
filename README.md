@@ -46,3 +46,7 @@ $ git commit -m '<message>'
 ```
 $ git push origin <branchname>
 ```
+
+## Remote repository
+1. Click "Compare & pull request" button.
+![Compare & pull request button](/images/pullrequest_01.jpg?raw=true 'Compare & pull request button')
