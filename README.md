@@ -50,4 +50,20 @@ $ git push origin <branchname>
 ## Remote repository
 1. Click "Compare & pull request" button.
 
-![Compare & pull request button](nishi-hi/pullrequest/blob/main/images/pullrequest_01.png)
+![Compare & pull request button](https://github.com/nishi-hi/pullrequest/blob/main/images/pullrequest_01.png)
+
+2. Edit the message then click "Create pull request" button.
+
+![Create pull request](https://github.com/nishi-hi/pullrequest/blob/main/images/pullrequest_02.png)
+
+3. Examine the difference then click "Merge pull request" button.
+
+![Merge pull request](https://github.com/nishi-hi/pullrequest/blob/main/images/pullrequest_03.png)
+
+4. Edit the message then click "Confirm merge" button.
+
+![Confirm merge](https://github.com/nishi-hi/pullrequest/blob/main/images/pullrequest_04.png)
+
+5. To delete branch after merge, "Delete branch" button.
+
+![Delete branch](https://github.com/nishi-hi/pullrequest/blob/main/images/pullrequest_05.png)
