@@ -49,4 +49,4 @@ $ git push origin <branchname>
 
 ## Remote repository
 1. Click "Compare & pull request" button.
-![Compare & pull request button](https://github.com/nishi-hi/pullrequest/images/pullrequest_01.jpg)
+![Compare & pull request button](/blob/main/images/pullrequest_01.png)
