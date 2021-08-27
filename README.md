@@ -30,3 +30,18 @@ $ git branch -a
 ```
 
 5. Modify the contents.
+
+6. Add file contents to the index.
+```
+$ git add .
+```
+
+7. Record changes to the repository.
+```
+$ git commit -m '<message>'
+```
+
+8. Update remote repository.
+```
+$ git push origin <branchname>
+```
